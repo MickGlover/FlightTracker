@@ -7,6 +7,10 @@ namespace FlightTracker
 {
     public class APIHandler
     {
+        public static String getInfo(String tailNum)
+        {
 
+            return "You know nothing";
+        }
     }
 }
